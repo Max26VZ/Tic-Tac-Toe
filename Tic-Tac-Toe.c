@@ -1,4 +1,4 @@
-//Max-10/6
+//«¸¶QÂ×-10/6
 #include <stdio.h>
 void print(char board[10][10]);
 void game(char board[10][10]);
